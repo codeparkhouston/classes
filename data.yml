@@ -1,0 +1,172 @@
+---
+description: >
+  Code Park opens fun coding experiences to students in the Houston area.
+
+
+  In our classes, students focus on fundamental coding skills and work
+  on real world projects. They get the hands-on experience they need
+  to continue their own journeys as coders.
+
+workshops:
+  - title: Make our own 
+    description: >
+      Hello this is a description.
+    sessions:
+      - title: 
+
+  - title: 3D Animations/VR
+    description: >
+      In this series, students will be introduced to building 3D scenes and
+      animating them.  By the end, they will have a version of the following
+      scene:
+
+      ![](./assets/aviator.gif)
+
+
+      <small>Scene and code will be adapted from this
+      [online tutorial](https://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/).</small>
+
+    objectives:
+      - name: 3D spatial reasoning
+      - name: Lighting and cameras in 3D scenes
+      - name: Principles of animation
+      - name: Coding in JavaScript
+      - name: Object-oriented programming
+
+    sessions:
+      - title: What are we making?
+        description: >
+          In this class, we will demonstrate the scene we will be building
+          together on the computer.  We are also going to have simple cut-out
+          and fold paper activity to recreate the scene in real life as teams
+          to demonstrate the idea of following directions to build a scene.
+          We will discuss what was easy or difficult about the activity.
+
+
+          We will also have a discussion with the students about any
+          animated 3D movies or videos they may have seen to relate
+          how the scenes may be constructed to the principles
+          we will cover.
+
+      - title: Shapes on a scene
+        description: >
+          This class will cover how we will be working together throughout
+          the rest of our classes, how we will be coding our project, and
+          how we can share our projects.
+
+
+          Students will learn vocabulary such as `scene` and `mesh`.  We will
+          end the class having changed the scene's background, placed a mesh
+          on the scene, and view the scene on our phones.
+
+      - title: A shapes factory
+        description: >
+          This class will focus on making the clouds in the scene out of multiple
+          other shapes, and we can tell the computer to quickly make many different
+          clouds.  We will point out how once we had instructions for the computer to
+          follow about making clouds, we could use "Object-oriented" code to make
+          many clouds easily, something that was more tedious when we were making the
+          scene by hand.
+
+      - title: Lights, camera, action
+        description: >
+          In this class, we will make the sea together, add lighting, and a camera.
+          We will experiment with the lighting to show how it affects the scene, and look
+          at scenes from 3D animated movies to discuss how they make us feel, and how that
+          is being acheived.
+
+      - title: More complex shapes
+        description: >
+          We will build a plane made of several shapes and use the visual inspector to
+          help us edit the plane.
+
+      - title: Animation
+        description: >
+          In this class, we will animate the sky, sea, and plane.  We will introduce the
+          concept of animation using sketches and a flip book, demonstrate updating an
+          animation one frame at time, and finally letting the animation run automatically. 
+
+          We will have a discussion about animations in movies and how different objects
+          and characters appear life-like.
+
+      - title: Wrap up and demonstrations
+        description: >
+          This is the last class of this series!  We will work a little more on our
+          animations to experiment, share them, and have a guest animator come share
+          their experience as a professional.
+
+  - title: Web/App Design and Development
+
+
+  - title: Data Visualization
+    costs: 
+
+    age_range:
+
+    description: >
+      this is a description
+    objectives:
+    sessions:
+      - title: Hands-on "data sculpture"
+        description: >
+          Shared data set with hands-on materials for students
+          to collaborate in groups on.  As a class, walk to each
+          visualization and have students share.
+
+          A discussion about what data visualization is,
+          where students might've seen examples of it
+          through their life. When might they use data visualization?
+
+          Also, facilitate a poll/survey -- physical and fun if possible
+          as a way to collect data for the next class.
+
+      - title: What will we be making?
+        description: >
+          A demonstration of different resulting projects, and looking
+          at existing data visualizations and discussing/critiquing in
+          groups.
+
+          Start planning 
+
+      - title: 
+
+      - title: Career visitor and continued project work
+
+
+  - title: Beat Maker, application/software
+  - title: Beat Maker, hardware
+  - title: Build your own robot
+
+    sessions:
+      - title: 
+
+  - title: Online marketing/shop?
+  # the following will be single or double session workshops
+  - title: Coding Python in Minecraft
+  - title: What is electricity?
+    sessions:
+      - title: Squishy circuits
+        description: >
+          Includes hands-on circuits building to light LED
+          and a demonstration about how electron flows like
+          water.
+      - title: Take apart a machine and intro to breadboard
+        description: >
+          Includes hands-on circuits building to light LED
+          and a demonstration about how electrons flow.
+  - title: ASCII Art
+    sessions:
+      - title:
+        objectives:
+          - name: Pixels/how images in computer
+          - name: How do computers think of color
+            description: >
+              Should show demonstration of colored light combining
+              to be white light.
+          - name: Resizing images
+          - name: Using computers for repetitive tasks
+  - title: 3D printing
+  - title: Architecture one?
+
+  - title: What does sound look like?
+

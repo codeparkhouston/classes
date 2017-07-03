@@ -1,0 +1,31 @@
+body {
+  font-size: 18px;
+  font-family: 'Space Mono', monospace;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Muli', sans-serif;
+  color: rgba(95, 204, 95, 1);
+  font-weight: 600;
+}
+
+.brand {
+  color: rgba(95, 204, 95, 1);
+  font-family: "Muli", Helvetica, sans-serif;
+  text-transform: lowercase;
+}
+
+.brand::before {
+  content: '{ ';
+  color: rgba(96, 142, 83, 1);
+}
+
+.brand::after {
+  content: ' }';
+  color: rgba(96, 142, 83, 1);
+}

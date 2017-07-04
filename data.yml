@@ -8,11 +8,64 @@ description: >
   to continue their own journeys as coders.
 
 workshops:
-  - title: Make our own 
+  - title: Make our own block puzzle game
     description: >
-      Hello this is a description.
+      In this series, we will be building our own web-based
+      [Sokoban](https://en.wikipedia.org/wiki/Sokoban) game.  Students will learn
+      how to code the game as well as design their own visual elements to use
+      in the game.
+
+
+      ![](https://upload.wikimedia.org/wikipedia/commons/4/4b/Sokoban_ani.gif)
+
+
+      <small>Example game from [Wikipedia](https://en.wikipedia.org/wiki/Sokoban).</small>
+
+    objectives:
+      - name: Game tiles
+      - name: Coding in JavaScript
+      - name: User interactions with software
+      - name: Using loops
     sessions:
-      - title: 
+      - title: What are we making?
+        description: >
+          In this class, we will play some [Sokoban](https://en.wikipedia.org/wiki/Sokoban)
+          games and share that we will be building our own versions.  We will
+          have a discussion to break down a Sokoban game into different parts:
+
+            1. The player that we can control
+            1. The map
+            1. The blocks that can be pushed
+            1. Whether the player has won
+
+          We will also discuss what the rules are.  All conclusions from this class
+          will be written on a large piece of paper and brought to each of the
+          following classes.
+
+      - title: Our player starts
+        description: >
+          We introduce students to how we will be coding in the class.  Students begin
+          coding the player by using a stand-in image and placing the player in the center
+          of the screen.  Students also design a personalized player "sprite" and come
+          up with a theme for their game.
+
+      - title: Our player moves
+        description: >
+          This class starts with a game of "Simon Says" with a discussion of how it relates
+          to the challenge of coding our player to move.
+
+
+          We challenge students to describe how to control the player and how to move the
+          player.  The steps and instructions are written down as "pseudocode."
+          Students will be shown event listeners and how to move the player separately.
+          They will be challenged to move the player on keypress as the class described in
+          the pseudocode.
+
+      - title: Our player can push a block
+
+      - title: Making the puzzle based on game maps
+
+      - title: Wrap-up, demonstrations, and game developer visitor         
 
   - title: 3D Animations/VR
     description: >
@@ -140,33 +193,56 @@ workshops:
     sessions:
       - title: 
 
-  - title: Online marketing/shop?
+
   # the following will be single or double session workshops
+
   - title: Coding Python in Minecraft
+    description: >
+      This class is an introduction to coding for students aged
+      12-18 using Minecraft: Pi Edition and Python.
+      With Coding in Minecraft, students will learn real world
+      programming skills through guided lessons, creating their
+      own in-game content along the way.
+
   - title: What is electricity?
+    description: >
+      This series of workshops help students experiment with electricity and build
+      an intuition for how circuits work.
     sessions:
       - title: Squishy circuits
         description: >
-          Includes hands-on circuits building to light LED
-          and a demonstration about how electron flows like
-          water.
+          Using simple ingredients, the class makes a batch of "squishy circuits."
+          Students will then use pre-made squishy circuits and batteries to power
+          LEDs in creative shapes.  Along the way, students will learn about how
+          electrons flow like water.
+
       - title: Take apart a machine and intro to breadboard
         description: >
-          Includes hands-on circuits building to light LED
-          and a demonstration about how electrons flow.
-  - title: ASCII Art
-    sessions:
-      - title:
-        objectives:
-          - name: Pixels/how images in computer
-          - name: How do computers think of color
-            description: >
-              Should show demonstration of colored light combining
-              to be white light.
-          - name: Resizing images
-          - name: Using computers for repetitive tasks
-  - title: 3D printing
-  - title: Architecture one?
+          Students take apart a simple machine to examine and learn how electronics
+          are built.  Then, we will build a simple circuit and learn about how
+          breadboards work.
+
+  - title: Converting images to ASCII Art with Python
+    description: >
+      Students will be guided through a program in Python that converts photos
+      and cartoon images to ASCII art, images made purely from text.
+      Along the way, they’ll learn a little about pixels, how computers
+      manipulate images, and using loops to code repetitive tasks.
+      At the end of class, students can have their ASCII art printed out to take home.
+    objectives:
+      - name: Pixels and how photos are stored in computers
+      - name: How do computers represent color
+      - name: Resizing images
+      - name: Using computers for repetitive tasks
 
   - title: What does sound look like?
+    is_ready: false
+    description: >
+      What does sound look like?  This workshop is a visual exploration of waves
+      and math, inspired by [this talk](https://greyscalegorilla.com/tutorials/mike-the-monkey-halfrez-2015-deconstructing-sound/).
 
+  - title: 3D printing
+    is_ready: false
+
+  - title: Architecture design
+    is_ready: false

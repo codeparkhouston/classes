@@ -26,6 +26,7 @@ workshops:
       - name: Coding in JavaScript
       - name: User interactions with software
       - name: Using loops
+      - name: Organizing code
     sessions:
       - title: What are we making?
         description: >

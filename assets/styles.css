@@ -1,6 +1,7 @@
 body {
   font-size: 18px;
   font-family: 'Space Mono', monospace;
+  font-feature-settings: "liga" 0;
 }
 
 h1,

@@ -63,10 +63,22 @@ workshops:
           the pseudocode.
 
       - title: Our player can push a block
+        description: >
+          In this class, students code the game board and blocks that can be pushed.  
+          Blocks should not move when pushed into another wall or block.  There will
+          also be target locations that will change a block's appearance once a block
+          is at the target location.
 
       - title: Making the puzzle based on game maps
+        description: >
+          Students will code the game to have different levels drawn based on a text
+          map.  They'll be able to use existing maps and also design their own maps.  
+          They will also check for each player move whether the level has been completed.
 
-      - title: Wrap-up, demonstrations, and game developer visitor         
+      - title: Wrap-up, demonstrations, and game developer visitor
+        description: >
+          Students will finish their games, play each other's special levels, and
+          visit with a game developer.
 
   - title: 3D Animations/VR
     description: >
@@ -145,11 +157,15 @@ workshops:
 
       - title: Wrap up and demonstrations
         description: >
-          This is the last class of this series!  We will work a little more on our
-          animations to experiment, share them, and have a guest animator come share
-          their experience as a professional.
+          This is the last class of this series!  Each student will sign up for and
+          explain how the code works for different parts of the animation.  We will
+          work a little more on our animations to experiment, share them, and have
+          a guest animator come share their experience as a professional.
 
-  - title: Web/App Design and Development
+  - title: Web Design and Development
+    description: >
+      In this series, students will build a website about anything that interests them.  
+      They will learn about HTML, CSS, and web design
 
 
   - title: Data Visualization
@@ -187,13 +203,27 @@ workshops:
       - title: Career visitor and continued project work
 
 
-  - title: Beat Maker, application/software
-  - title: Beat Maker, hardware
+  - title: Beat Machine, application/software
+    description: >
+      In this series, students will build a beat machine that is controlled by the
+      computer.
+    is_ready: false
+  - title: Beat Machine, hardware
+    description: >
+      In this series, students will continue building a basic beat machine by connecting
+      hardware buttons to the web version of the beat machine.
+    is_ready: false
+
   - title: Build your own robot
+    description: >
+      In this series, students will learn how to build a basic robot.
+    is_ready: false
 
-    sessions:
-      - title: 
-
+  - title: Remote control your light
+    description: >
+      In this series, students will learn how to modify an Amazon Dash button to
+      turn on and off a light.
+    is_ready: false
 
   # the following will be single or double session workshops
 

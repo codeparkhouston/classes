@@ -3,7 +3,7 @@
     <h2 class='list-group-item-heading brand' if={opts.data.title}>{opts.data.title}</h2>
     <markdown class='description' content={opts.data.description} if={opts.data.description}/>
 
-    <p if={opts.data.is_ready === false}>More details coming soon.</p>
+    <p if={opts.data.is_ready === false}><i>More details coming soon.</i></p>
 
     <section>
       <h3 if={opts.data.objectives && opts.data.objectives.length > 0}>Objectives</h3>

@@ -90,7 +90,8 @@ workshops:
 
 
       <small>Scene and code will be adapted from this
-      [online tutorial](https://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/).</small>
+      [online tutorial](https://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/).
+      </small>
 
     objectives:
       - name: 3D spatial reasoning
@@ -168,39 +169,53 @@ workshops:
       They will learn about HTML, CSS, and web design
 
 
+      This is a multi-session class.
+    is_ready: false
+
   - title: Data Visualization
-    costs: 
-
-    age_range:
-
-    description: >
-      this is a description
+    is_ready: false
     objectives:
+      - name: What is data?
+      - name: What is data visualization?
+      - name: How is data visualization useful?
+      - name: What makes a good or bad visualization?
     sessions:
       - title: Hands-on "data sculpture"
         description: >
-          Shared data set with hands-on materials for students
-          to collaborate in groups on.  As a class, walk to each
+          Students collaborate in groups to build physical data visualizations using a
+          shared dataset and various craft materials.  As a class, we will walk to each
           visualization and have students share.
 
-          A discussion about what data visualization is,
-          where students might've seen examples of it
-          through their life. When might they use data visualization?
 
-          Also, facilitate a poll/survey -- physical and fun if possible
-          as a way to collect data for the next class.
+          We will then have a discussion about what data visualization is, where students
+          might've seen examples of it through their life, and when they might use data
+          visualizations.
+
+
+          Students will be prompted that they should start brainstorming what visualization
+          they want to build as part of this class.  We will creatively collect some data of
+          our own from the students to use in the following class.
 
       - title: What will we be making?
         description: >
-          A demonstration of different resulting projects, and looking
-          at existing data visualizations and discussing/critiquing in
-          groups.
+          The class will discuss some charts and visualizations made based on the data
+          data collected from the previous class.  Students will also discuss and critique
+          other existing data visualizations groups.  They will be guided towards discovering
+          principles common to visualizations, what is good, and what is bad.
 
-          Start planning 
 
-      - title: 
+          Students will share what they plan for their visualizations and begin planning
+          how they will be built.
 
-      - title: Career visitor and continued project work
+      - title: Ways to gather data
+
+      - title: Cleaning data
+
+      - title: Building visualizations
+
+      - title: Building visualizations, continued
+
+      - title: Wrap-up, demonstrations, and data journalist visitor
 
 
   - title: Beat Machine, application/software
@@ -269,8 +284,8 @@ workshops:
   - title: What does sound look like?
     is_ready: false
     description: >
-      What does sound look like?  This workshop is a visual exploration of waves
-      and math, inspired by [this talk](https://greyscalegorilla.com/tutorials/mike-the-monkey-halfrez-2015-deconstructing-sound/).
+      What does sound look like?  This workshop is a visual exploration of waves and math, inspired by
+      [this talk](https://greyscalegorilla.com/tutorials/mike-the-monkey-halfrez-2015-deconstructing-sound/).
 
   - title: 3D printing
     is_ready: false
